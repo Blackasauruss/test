@@ -70,7 +70,8 @@ async def reload(ctx, extension: str):
         await ctx.message.add_reaction(x)
 
 
-USER_TOKEN = "MTEzMDM3MDAyNDk4MTQwNTc0Nw.GYujmh.eYa41xwp_90czZvFIDlp8tHyGA6GqdLNYjH9rA"
+USER_TOKEN ="MTIwNzc3OTE0NTIxNjQzNDI3Nw.GpswGi.TC880mm6VZBpyI9jtp5531-Mt0rn3y5kj4yB3o"
 QUILLY = "MTAwMzM1NDEwNjU1MjkyNjI1OA.GgGoLl.1QigNTovLQeLyClzCus1fJutAsd-r5ZIVDdXT8"
-
-bot.run(USER_TOKEN) 
+c = "NzAzMzE4OTExOTk5MDE3MTUx.GJJTak.9NhWdaavotCHM19ey-DGPhgPHDWoj3p20efdIA"
+cu6id = "MTE4NzA1OTg4NjkyNDc1OTE5MQ.GT0FOD.3vcLkiwNe9n1zGH_dqrS-Ien8yR0C4kC4Kxujs"
+bot.run(cu6id)
